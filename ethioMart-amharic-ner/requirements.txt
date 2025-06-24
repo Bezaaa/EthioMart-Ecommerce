@@ -1,0 +1,24 @@
+# Core NLP & ML
+transformers
+datasets
+seqeval
+scikit-learn
+pandas
+numpy
+
+# Tokenization & Preprocessing
+beautifulsoup4
+emoji
+clean-text
+
+# Telegram scraping
+telethon
+
+# Visualization & Interpretability
+matplotlib
+shap
+lime
+
+# Misc
+tqdm
+jupyter
